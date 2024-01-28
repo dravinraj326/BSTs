@@ -1,7 +1,5 @@
 # BSTs
 
-In this project, our goal was to implement a binary search tree and integrate it with a linkedList in order to create an information retrieval system. sort the tree based on the properties of BST organization, as well as storing additional information that is specific for each individual tree node. 
-
 -datafile.txt 
 This was the file we needed to read the elements from to insert those elements into the tree, while also not violating the properties of a BST. Specifically, the file contained the names of different books with keywords, ranging from “blobs” to “weighting” associated with them. These keywords are going to help make up the alphabetic portion of sorting our BST. Because of the txt file’s encoding scheme, all the words in the file are initially processed as strings, which we handle the conversion in ProjectTestBST.
 
